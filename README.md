@@ -52,8 +52,8 @@ Detailed project documentation is available in the repository:
 
 ## 👨‍💻 Author
 **Akilan M**  
-Final Year – Electronics and Communication Engineering  
-Kongu Engineering College  
+ Electronics and Communication Engineering  
+  
 
 ---
 
